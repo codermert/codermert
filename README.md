@@ -39,8 +39,8 @@
       <i>(genişletmek için tıklayın!)</i>
     </summary>
 
-  ![Coder Mert GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=keyiflerolsun&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)
-  ![Coder Mert'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=keyiflerolsun&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
+  ![Coder Mert GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=codermert&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)
+  ![Coder Mert'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=codermert&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
 
   </details>
 </samp>

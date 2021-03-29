@@ -1,5 +1,5 @@
 <samp>
-  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Coder Mert 🕊</h1>
+  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Coder Mert 😉</h1>
 
   <p align="center">
     <a href="https://github.com/codermert"><img src="https://visitor-badge.laobi.icu/badge?page_id=keyiflerolsun" alt="Ziyaret"></a>

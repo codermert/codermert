@@ -19,7 +19,7 @@
   ![C#](https://img.shields.io/badge/CSharp-cD1?style=for-the-badge&logo=C%20Sharp&logoColor=01060a&color=4495d4)
   ![APP İnventor](https://img.shields.io/badge/App%20%C4%B0nventor-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
   ![IOS](https://img.shields.io/badge/ios-cD1?style=for-the-badge&logo=apple&logoColor=01060a&color=4495d4)
-  ![HTML](https://img.shields.io/badge/ios-cD1?style=for-the-badge&logo=html5&logoColor=01060a&color=4495d4)
+  ![HTML](https://img.shields.io/badge/html-cD1?style=for-the-badge&logo=html5&logoColor=01060a&color=4495d4)
   </details>
 
   <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>

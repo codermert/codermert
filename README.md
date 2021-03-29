@@ -32,7 +32,7 @@
    <a target="_blank" href="https://www.snapchat.com/add/mertbeyzx">        <img alt="iletisim | Snapchat"  src="https://img.shields.io/badge/snapchat-2B2A29.svg?style=for-the-badge&logo=snapchat&logoColor=faea07"></a>
   <a target="_blank" href="https://ask.fm/codermertx">        <img alt="iletisim | ASK.fm"  src="https://img.shields.io/badge/ask.fm-2B2A29.svg?style=for-the-badge&logo=askfm&logoColor=ee1144"></a>
   
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/777614821&color=%237195be&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/prince-salman-4" title="Salman K." target="_blank" style="color: #cccccc; text-decoration: none;">Salman K.</a> · <a href="https://soundcloud.com/prince-salman-4/celebrate-dmitry-glushkov-dub" title="Celebrate - (Dmitry Glushkov Dub Mix)" target="_blank" style="color: #cccccc; text-decoration: none;">Celebrate - (Dmitry Glushkov Dub Mix)</a></div>
+
   </div>
   
  

@@ -3,7 +3,7 @@
 
   <p align="center">
     <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=codermert" alt="Ziyaret"></a>
-  <a target="" href="https://open.spotify.com/artist/37evpjuqng7tSHaeFNWniF"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-UPO%20MARKT%20CEO%20-d91623"></a>
+  <a target="" href="https://t.me/codermert"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-UPO%20MARKT%20CEO%20-d91623"></a>
 
   </p>
 

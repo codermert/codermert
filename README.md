@@ -16,7 +16,7 @@
   ![Android](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
   ![Facebook API](https://img.shields.io/badge/facebook-cD1?style=for-the-badge&logo=facebook&logoColor=01060a&color=4495d4)
   ![Instagram](https://img.shields.io/badge/instagram-cD1?style=for-the-badge&logo=instagram&logoColor=01060a&color=4495d4)
-  ![C#](https://img.shields.io/badge/C#-cD1?style=for-the-badge&logo=C&logoColor=01060a&color=4495d4)
+  ![C#](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=C&logoColor=01060a&color=4495d4)
   ![Pandas](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas&logoColor=EF7F1A&color=2B2A29)
   ![Pyrogram](https://img.shields.io/badge/pyrogram-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
   ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=EF7F1A&color=2B2A29)

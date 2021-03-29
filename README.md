@@ -3,7 +3,8 @@
 
   <p align="center">
     <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=codermert" alt="Ziyaret"></a>
-    <a href="codermert" target="_blank"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Kahve%20Ismarla-d91623" title="☕️"></a>
+    <a href="codermert" target="_blank"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-UPO MARKT CEO
+🔥-d91623" title="☕️"></a>
   </p>
 
   <details align="center">

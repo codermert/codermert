@@ -2,7 +2,7 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Coder Mert 😉</h1>
 
   <p align="center">
-    <a href="https://github.com/codermert"><img src="https://visitor-badge.laobi.icu/badge?page_id=keyiflerolsun" alt="Ziyaret"></a>
+    <a href="https://t.me/codermert"><img src="https://visitor-badge.laobi.icu/badge?page_id=codermert" alt="Ziyaret"></a>
     <a href="https:/t.me/codermert" target="_blank"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Kahve%20Ismarla-ffdd00" title="☕️"></a>
   </p>
 
@@ -27,8 +27,8 @@
   <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
 
   <div align="center">
-    <a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
-    <a target="_blank" href="https://twitter.com/codermert4">        <img alt="iletisim | Twitter"  src="https://img.shields.io/badge/twitter-2B2A29.svg?style=for-the-badge&logo=twitter&logoColor=EF7F1A"></a>
+    <a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=18eaed"></a>
+    <a target="_blank" href="https://twitter.com/codermert4">        <img alt="iletisim | Twitter"  src="https://img.shields.io/badge/twitter-2B2A29.svg?style=for-the-badge&logo=twitter&logoColor=18eaed"></a>
   </div>
 
   ---

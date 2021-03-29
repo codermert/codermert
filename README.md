@@ -28,7 +28,7 @@
   <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
 
   <div align="center">
-  <a target="_blank" href="https://open.spotify.com/artist/37evpjuqng7tSHaeFNWniF">        <img alt="iletisim | Spotify"  src="https://img.shields.io/badge/spotify-2B2A29.svg?style=for-the-badge&logo=spotify&logoColor=1db954"></a>
+  <a target="" href="https://open.spotify.com/artist/37evpjuqng7tSHaeFNWniF_blank">        <img alt="iletisim | Spotify"  src="https://img.shields.io/badge/spotify-2B2A29.svg?style=for-the-badge&logo=spotify&logoColor=1db954"></a>
     <a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=18eaed"></a>
     <a target="_blank" href="https://twitter.com/codermert4">        <img alt="iletisim | Twitter"  src="https://img.shields.io/badge/twitter-2B2A29.svg?style=for-the-badge&logo=twitter&logoColor=18eaed"></a>
    <a target="_blank" href="https://www.snapchat.com/add/mertbeyzx">        <img alt="iletisim | Snapchat"  src="https://img.shields.io/badge/snapchat-2B2A29.svg?style=for-the-badge&logo=snapchat&logoColor=faea07"></a>

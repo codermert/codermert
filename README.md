@@ -16,13 +16,10 @@
   ![Android](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
   ![Facebook API](https://img.shields.io/badge/facebook-cD1?style=for-the-badge&logo=facebook&logoColor=01060a&color=4495d4)
   ![Instagram](https://img.shields.io/badge/instagram-cD1?style=for-the-badge&logo=instagram&logoColor=01060a&color=4495d4)
-  ![C#](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=C&logoColor=01060a&color=4495d4)
-  ![Pandas](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas&logoColor=EF7F1A&color=2B2A29)
-  ![Pyrogram](https://img.shields.io/badge/pyrogram-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
-  ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=EF7F1A&color=2B2A29)
-  ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=EF7F1A&color=2B2A29)
-  ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=EF7F1A&color=2B2A29)
-  ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=EF7F1A&color=2B2A29)
+  ![C#](https://img.shields.io/badge/CSharp-cD1?style=for-the-badge&logo=C%20Sharp&logoColor=01060a&color=4495d4)
+  ![APP İnventor](https://img.shields.io/badge/App%20%C4%B0nventor-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
+  ![IOS](https://img.shields.io/badge/ios-cD1?style=for-the-badge&logo=apple&logoColor=01060a&color=4495d4)
+  ![HTML](https://img.shields.io/badge/ios-cD1?style=for-the-badge&logo=html5&logoColor=01060a&color=4495d4)
   </details>
 
   <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>

@@ -2,7 +2,7 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Coder Mert 😉</h1>
 
   <p align="center">
-    <a href="https://t.me/codermert"><img src="https://visitor-badge.laobi.icu/badge?page_id=codermert" alt="Ziyaret"></a>
+    <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=codermert" alt="Ziyaret"></a>
     <a href="https:/t.me/codermert" target="_blank"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Kahve%20Ismarla-ffdd00" title="☕️"></a>
   </p>
 

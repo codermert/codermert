@@ -14,6 +14,7 @@
     </summary>
 
   ![Android](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
+  ![Android](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=01060a&color=4495d4)
   ![Facebook API](https://img.shields.io/badge/facebook-cD1?style=for-the-badge&logo=facebook&logoColor=01060a&color=4495d4)
   ![Instagram](https://img.shields.io/badge/instagram-cD1?style=for-the-badge&logo=instagram&logoColor=01060a&color=4495d4)
   ![C#](https://img.shields.io/badge/CSharp-cD1?style=for-the-badge&logo=C%20Sharp&logoColor=01060a&color=4495d4)

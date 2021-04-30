@@ -2,7 +2,7 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Coder Mert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
   <p align="center">
-    <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=codermert" alt="Ziyaret"></a>
+    ### ![Wahyu's Viewers](https://rushter.com/counter.svg)
   <a target="" href="https://t.me/codermert"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-UPO%20MARKT%20CEO%20-d91623"></a>
 
   </p>

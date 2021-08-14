@@ -3,7 +3,7 @@
 
   <p align="center">
 
-  <center><a target="" href="https://t.me/codermert"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-UPO%20MARKT%20CEO%20-d91623"></a></center><img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
+  <center><a target="" href="https://t.me/codermert"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-UPO%20MARKT%20CEO%20-d91623"></a></center><img align="right" src="https://komarev.com/ghpvc/?username=codermert&color=269077">
 
   </p>
 

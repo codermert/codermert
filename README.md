@@ -7,9 +7,10 @@
 
   </p>
 
+  
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>İlgi Alanlarım</b>
+      <b>### 🛠 &nbsp;İlgi Alanlarım</b>
       <i>(genişletmek için tıklayın!)</i>
     </summary>
 

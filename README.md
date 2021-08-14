@@ -31,7 +31,7 @@
   </details>
 
  <summary style="font-weight: bold; font-size: 18px">
-      <b>###&nbsp;İletişime geç:</b>
+      <b>### 📫 &nbsp;İletişime geç:</b>
   
 
   <div align="center">

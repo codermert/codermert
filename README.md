@@ -32,7 +32,7 @@
 
  <summary style="font-weight: bold; font-size: 18px">
       <b>### 📫 &nbsp;İletişime geç:</b>
-  
+  &nbsp;
 
   <div align="center">
   <a target="" href="https://open.spotify.com/artist/37evpjuqng7tSHaeFNWniF">        <img alt="iletisim | Spotify"  src="https://img.shields.io/badge/spotify-2B2A29.svg?style=for-the-badge&logo=spotify&logoColor=1db954"></a>

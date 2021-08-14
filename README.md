@@ -15,7 +15,7 @@
     </summary>
 
   ![Android](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
-  ![ManjaroLinux](https://img.shields.io/badge/Arch-Linux-cD1?style=for-the-badge&logo=ArchLinux&logoColor=01060a&color=4495d4)
+  ![ManjaroLinux](https://img.shields.io/badge/Manjaro-Linux-cD1?style=for-the-badge&logo=Manjaro&logoColor=01060a&color=4495d4)
   ![Git](https://img.shields.io/badge/git-cD1?style=for-the-badge&logo=git&logoColor=01060a&color=4495d4)
   ![JSON](https://img.shields.io/badge/json-cD1?style=for-the-badge&logo=json&logoColor=01060a&color=4495d4)
   ![VisualStudio](https://img.shields.io/badge/visual-studio-cD1?style=for-the-badge&logo=visual-studio&logoColor=01060a&color=4495d4)

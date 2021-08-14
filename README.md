@@ -32,11 +32,10 @@
 
  <summary style="font-weight: bold; font-size: 18px">
       <b>### 📫 &nbsp;İletişime geç:</b>
-  &nbsp;
-   &nbsp;
-   &nbsp;
+
 
   <div align="center">
+    &nbsp;
   <a target="" href="https://open.spotify.com/artist/37evpjuqng7tSHaeFNWniF">        <img alt="iletisim | Spotify"  src="https://img.shields.io/badge/spotify-2B2A29.svg?style=for-the-badge&logo=spotify&logoColor=1db954"></a>
   <a target="" href="https://music.apple.com/tr/artist/coder-mert/1540399101?l=tr">        <img alt="iletisim | iTunes"  src="https://img.shields.io/badge/itunes-2B2A29.svg?style=for-the-badge&logo=itunes&logoColor=cb1c28"></a>
     <a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=18eaed"></a>

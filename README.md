@@ -30,7 +30,8 @@
   ![HTML](https://img.shields.io/badge/html-cD1?style=for-the-badge&logo=html5&logoColor=01060a&color=4495d4)
   </details>
 
-  <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> ### &nbsp;İletişim: </h2>
+ <summary style="font-weight: bold; font-size: 18px">
+      <b>###&nbsp;İletişime geç:</b>
   
 
   <div align="center">

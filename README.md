@@ -65,5 +65,4 @@
 </samp>
 
 
- <center><b>### 🔉 &nbsp;Şu an dinliyorum :</b> </center>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=76ck031tz84tb9inafu2a49u1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<b>### 🔉 &nbsp;Şu an dinliyorum :</b> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=76ck031tz84tb9inafu2a49u1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)

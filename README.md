@@ -10,7 +10,7 @@
   
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>### 🛠 &nbsp;İlgi Alanlarım</b>
+      <b>🛠 &nbsp;İlgi Alanlarım</b>
       <i>(genişletmek için tıklayın!)</i>
     </summary>
 
@@ -33,7 +33,7 @@
   </details>
 
  <summary style="font-weight: bold; font-size: 18px">
-      <b>### 📫 &nbsp;İletişime geç:</b>
+      <b>📫 &nbsp;İletişime geç:</b>
 
 
   <div align="center">
@@ -65,4 +65,4 @@
 </samp>
 
 
-<b>### 🔉 &nbsp;Şu an dinliyorum :</b> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=76ck031tz84tb9inafu2a49u1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<b>🔉 &nbsp;Şu an dinliyorum :</b> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=76ck031tz84tb9inafu2a49u1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)

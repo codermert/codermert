@@ -65,5 +65,5 @@
 </samp>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=76ck031tz84tb9inafu2a49u1&cover_image=true&theme=default)](https://t.me/codermert)<img align="right" src="https://img.shields.io/badge/spotify-su_an_dinliyorum_%F0%9F%94%89-2B2A29.svg?style=for-the-badge&logo=spotify&logoColor=green">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=76ck031tz84tb9inafu2a49u1&cover_image=true&theme=default)](https://t.me/codermert)<img align="right" src="https://img.shields.io/badge/spotify-su_an_dinliyorum_%F0%9F%94%89-2B2A29.svg?style=for-the-badge&logo=spotify&logoColor=green"><br> <img align="right" src="https://img.shields.io/badge/linkedin-iletisime_gec-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=blue">
 

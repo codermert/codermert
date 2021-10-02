@@ -1,8 +1,8 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Merhaba! Ben (Coder(🤪| Mert me)|https://t.me/codermert)" title="👋 Merhaba! Ben (Coder(🤪| Mert me)|https://t.me/codermert)"/>](https://t.me/codermert)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00df00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=codermert.codermert&color=00df00)
 <!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codermert/codermert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

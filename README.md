@@ -1,4 +1,4 @@
-[<img src="" alt="👋 Merhaba! Ben (Coder(🤪| Mert me)|https://t.me/codermert)" title="👋 Merhaba! Ben (Coder(🤪| Mert me)|https://t.me/codermert)"/>](https://t.me/codermert)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Merhaba! Ben (Coder(🤪| Mert me)|https://t.me/codermert)" title="👋 Merhaba! Ben (Coder(🤪| Mert me)|https://t.me/codermert)"/>](https://t.me/codermert)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=codermert.codermert&color=00df00)
 <!--

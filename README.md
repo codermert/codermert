@@ -38,7 +38,7 @@
 
   <div align="center">
     &nbsp;
-  <a target="" href="https://open.spotify.com/user/76ck031tz84tb9inafu2a49u1">        <img alt="iletisim | Spotify"  src="https://img.shields.io/badge/spotify-2B2A29.svg?style=for-the-badge&logo=spotify&logoColor=1db954"></a>
+  <a target="" href="https://www.linkedin.com/in/codermert/">        <img alt="iletisim | LinkedIn"  src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
     <a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=18eaed"></a>
   <a target="_blank" href="https://ask.fm/codermertx">        <img alt="iletisim | ASK.fm"  src="https://img.shields.io/badge/ask.fm-2B2A29.svg?style=for-the-badge&logo=askfm&logoColor=ee1144"></a>
   

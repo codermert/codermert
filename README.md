@@ -28,7 +28,7 @@
   ![Instagram](https://img.shields.io/badge/instagram-cD1?style=for-the-badge&logo=instagram&logoColor=01060a&color=4495d4)
   ![C#](https://img.shields.io/badge/CSharp-cD1?style=for-the-badge&logo=C%20Sharp&logoColor=01060a&color=4495d4)
   ![APP İnventor](https://img.shields.io/badge/App%20%C4%B0nventor-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
-  ![IOS](https://img.shields.io/badge/ios-cD1?style=for-the-badge&logo=apple&logoColor=01060a&color=4495d4)
+  ![IOS](https://img.shields.io/badge/ios_development-cD1?style=for-the-badge&logo=apple&logoColor=01060a&color=4495d4)
   ![HTML](https://img.shields.io/badge/html-cD1?style=for-the-badge&logo=html5&logoColor=01060a&color=4495d4)
   </details>
 

@@ -51,8 +51,8 @@
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>GitHub İstatistikleri</b>
-      <i>(genişletmek için tıklayın!)</i>
+      <b>GitHub Statistics</b>
+      <i>(click to expand!)</i>
     </summary>
 
   ![Coder Mert GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=codermert&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)

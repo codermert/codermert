@@ -1,5 +1,5 @@
 <samp>
-  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Coder Mert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
+  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Coder Mert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
   <p align="center">
 
@@ -10,8 +10,8 @@
   
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>🛠 &nbsp;İlgi Alanlarım</b>
-      <i>(genişletmek için tıklayın!)</i>
+      <b>🛠 &nbsp;My interests</b>
+      <i>(click to expand!)</i>
     </summary>
 
   ![Android](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
@@ -31,7 +31,7 @@
   </details>
 
  <summary style="font-weight: bold; font-size: 18px">
-      <b>📫 &nbsp;İletişime geç:</b>
+      <b>📫 &nbsp;Contact:</b>
 
 
   <div align="center">

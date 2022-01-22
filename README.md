@@ -15,13 +15,14 @@
     </summary>
 
   ![Android](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
+  ![Java](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java&logoColor=01060a&color=4495d4)
+  ![Kotlin](https://img.shields.io/badge/kotlin-cD1?style=for-the-badge&logo=kotlin&logoColor=01060a&color=4495d4)
   ![ManjaroLinux](https://img.shields.io/badge/Manjaro-Linux-cD1?style=for-the-badge&logo=Manjaro&logoColor=01060a&color=4495d4)
   ![Git](https://img.shields.io/badge/git-cD1?style=for-the-badge&logo=git&logoColor=01060a&color=4495d4)
   ![JSON](https://img.shields.io/badge/json-cD1?style=for-the-badge&logo=json&logoColor=01060a&color=4495d4)
   ![VisualStudio](https://img.shields.io/badge/visual-studio-cD1?style=for-the-badge&logo=visual-studio&logoColor=01060a&color=4495d4)
   ![Illustrator](https://img.shields.io/badge/Illustrator-cD1?style=for-the-badge&logo=adobe&logoColor=01060a&color=4495d4)
   ![Linux](https://img.shields.io/badge/Arch-Linux-cD1?style=for-the-badge&logo=ArchLinux&logoColor=01060a&color=4495d4)
-  ![Java](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java&logoColor=01060a&color=4495d4)
   ![JS](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=01060a&color=4495d4)
   ![PYTHON](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=01060a&color=4495d4)
   ![Facebook API](https://img.shields.io/badge/facebook_api-cD1?style=for-the-badge&logo=facebook&logoColor=01060a&color=4495d4)

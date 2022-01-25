@@ -19,17 +19,16 @@
   ![Kotlin](https://img.shields.io/badge/kotlin-cD1?style=for-the-badge&logo=kotlin&logoColor=01060a&color=4495d4)
   ![Flutter](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter&logoColor=01060a&color=4495d4)
   ![ManjaroLinux](https://img.shields.io/badge/Manjaro-Linux-cD1?style=for-the-badge&logo=Manjaro&logoColor=01060a&color=4495d4)
+  ![UbuntuLinux](https://img.shields.io/badge/ubuntu-%20Linux-cD1?style=for-the-badge&logo=ubuntu&logoColor=01060a&color=4495d4)
   ![Git](https://img.shields.io/badge/git-cD1?style=for-the-badge&logo=git&logoColor=01060a&color=4495d4)
   ![JSON](https://img.shields.io/badge/json-cD1?style=for-the-badge&logo=json&logoColor=01060a&color=4495d4)
   ![VisualStudio](https://img.shields.io/badge/visual-studio-cD1?style=for-the-badge&logo=visual-studio&logoColor=01060a&color=4495d4)
   ![Illustrator](https://img.shields.io/badge/Illustrator-cD1?style=for-the-badge&logo=adobe&logoColor=01060a&color=4495d4)
-  ![Linux](https://img.shields.io/badge/Arch-Linux-cD1?style=for-the-badge&logo=ArchLinux&logoColor=01060a&color=4495d4)
-  ![JS](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=01060a&color=4495d4)
+  ![ArchLinux](https://img.shields.io/badge/Arch-Linux-cD1?style=for-the-badge&logo=ArchLinux&logoColor=01060a&color=4495d4)
   ![PYTHON](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=01060a&color=4495d4)
   ![Facebook API](https://img.shields.io/badge/facebook_api-cD1?style=for-the-badge&logo=facebook&logoColor=01060a&color=4495d4)
   ![APP İnventor](https://img.shields.io/badge/App%20%C4%B0nventor-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
   ![IOS](https://img.shields.io/badge/ios_development-cD1?style=for-the-badge&logo=apple&logoColor=01060a&color=4495d4)
-  ![HTML](https://img.shields.io/badge/html-cD1?style=for-the-badge&logo=html5&logoColor=01060a&color=4495d4)
   </details>
 
  <summary style="font-weight: bold; font-size: 18px">

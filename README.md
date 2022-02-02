@@ -17,7 +17,6 @@
   ![Android](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android&logoColor=01060a&color=4495d4)
   ![Java](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java&logoColor=01060a&color=4495d4)
   ![Kotlin](https://img.shields.io/badge/kotlin-cD1?style=for-the-badge&logo=kotlin&logoColor=01060a&color=4495d4)
-  ![Flutter](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter&logoColor=01060a&color=4495d4)
   ![ManjaroLinux](https://img.shields.io/badge/Manjaro-Linux-cD1?style=for-the-badge&logo=Manjaro&logoColor=01060a&color=4495d4)
   ![UbuntuLinux](https://img.shields.io/badge/ubuntu-%20Linux-cD1?style=for-the-badge&logo=ubuntu&logoColor=01060a&color=4495d4)
   ![Git](https://img.shields.io/badge/git-cD1?style=for-the-badge&logo=git&logoColor=01060a&color=4495d4)

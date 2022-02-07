@@ -37,7 +37,7 @@
   <div align="center">
     &nbsp;
      <a target="" href="https://stackoverflow.com/users/15413885/coder-mert">        <img alt="iletisim | Stack"  src="https://img.shields.io/badge/stackoverflow-2B2A29.svg?style=for-the-badge&logo=stackoverflow&logoColor=orange"></a>
-  <a target="" href="https://www.linkedin.com/in/codermert/">        <img alt="iletisim | LinkedIn"  src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+  <a target="" href="https://medium.com/@codermert">        <img alt="iletisim | Medium"  src="https://img.shields.io/badge/medium-2B2A29.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
     <a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=18eaed"></a>
   <a target="_blank" href="https://ask.fm/codermertx">        <img alt="iletisim | ASK.fm"  src="https://img.shields.io/badge/ask.fm-2B2A29.svg?style=for-the-badge&logo=askfm&logoColor=ee1144"></a>
     <a target="_blank" href="https://vk.com/codermert">        <img alt="iletisim | VK"  src="https://img.shields.io/badge/vk-2B2A29.svg?style=for-the-badge&logo=vk&logoColor=4C75A3"></a>

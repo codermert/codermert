@@ -8,8 +8,8 @@
 
 
 <p >
-<a target="_blank" href="mailto:codermert@bk.ru"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat&logo=mail_ru"></a>
-<a target="_blank" href="https://twitter.com/codermert"><img alt="Twitter Developers" src="https://img.shields.io/badge/twitter-blue?style=flat&logo=mail_ru"></a>
+<a target="_blank" href="mailto:codermert@bk.ru"><img alt="Email" src="https://img.shields.io/badge/Mail-cD1?style=for-the-badge&logo=Mail&logoColor=01060a&color=4495d4"></a>
+<a target="_blank" href="https://twitter.com/codermert"><img alt="Twitter Developers" src="https://img.shields.io/badge/twitter-cD1?style=for-the-badge&logo=twitter&logoColor=01060a&color=4495d4"></a>
 <a target="_blank" href="https://ask.fm/codermertx"><img alt="askfm" src="https://img.shields.io/badge/ask.fm-red?style=flat&logo=askfm"></a>
 <a target="_blank" https://stackoverflow.com/users/15413885/coder-mert"><img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow-gray?style=flat&logo=stackoverflow"></a>
 <a target="_blank"  href="https://medium.com/@codermert"><img alt="Medium" src="https://img.shields.io/badge/Medium-gray?style=flat&logo=medium"></a>

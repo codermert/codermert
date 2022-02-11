@@ -22,7 +22,7 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 </a>&ensp;<a href="https://tryhackme.com/" target="_blank"> <img src="https://tryhackme.com/img/favicon.png" alt="android" width="40" height="40"/> 
  </a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/> 
-</a>&ensp;<a href="https://manjaro.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/927153650421641216/578x4Rj7_400x400.jpg" alt="manjaro" width="60" height="40"/> 
+</a>&ensp;<a href="https://manjaro.org/" target="_blank"> <img src="https://forum.manjaro.org/uploads/default/original/1X/6c2c472950cd0e21a709535d773ef716a1af56ea.png" alt="manjaro" width="60" height="40"/> 
 </a>&ensp;<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="35" height="40"/>
  </a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>&ensp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>

@@ -11,7 +11,7 @@
 <a target="_blank" href="mailto:codermert@bk.ru"><img alt="Email" src="https://img.shields.io/badge/Mail-ru-cD1?style=for-the-badge&logo=Mail.ru&logoColor=01060a&color=4495d4"></a>
 <a target="_blank" href="https://twitter.com/codermert"><img alt="Twitter Developers" src="https://img.shields.io/badge/twitter-cD1?style=for-the-badge&logo=twitter&logoColor=01060a&color=4495d4"></a>
 <a target="_blank" href="https://ask.fm/codermertx"><img alt="askfm" src="https://img.shields.io/badge/ask.fm-2B2A29.svg?style=for-the-badge&logo=askfm&logoColor=ee1144"></a>
-<a target="_blank" https://stackoverflow.com/users/15413885/coder-mert"><img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow-gray?style=flat&logo=stackoverflow"></a>
+<a target="_blank" https://stackoverflow.com/users/15413885/coder-mert"><img alt="StackOverFlow" src="https://img.shields.io/badge/stackoverflow-2B2A29.svg?style=for-the-badge&logo=stackoverflow&logoColor=orange"></a>
 <a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=18eaed"></a>
  
 

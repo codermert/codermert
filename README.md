@@ -28,7 +28,8 @@
 </a>&ensp;<a href="https://www.mysql.com" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" alt="mysql" width="40" height="40"/>
 </a>&ensp;<a href="https://docs.google.com/spreadsheets/u/0/" target="_blank"> 
 </a>&ensp;<a href="https://www.google.com/script/start/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/220px-Google_Apps_Script.svg.png" alt="mysql" width="40" height="40"/> 
-  
+
+  </a>&ensp;<a href="https://developer.android.com/studio" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="ps" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="mysql" width="40" height="40"/>
 </a>&ensp;<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="40" height="40"/> 
 </a>&ensp;<a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/200px-Adobe_XD_CC_icon.svg.png" alt="ps" width="40" height="40"/>

@@ -31,7 +31,9 @@
 
   </a>&ensp;<a href="https://developer.android.com/studio" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="ps" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="mysql" width="40" height="40"/>
-</a>&ensp;<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="40" height="40"/> 
+
+  </a>&ensp;<a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="ps" width="40" height="40"/>
+  </a>&ensp;<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="40" height="40"/> 
 </a>&ensp;<a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/200px-Adobe_XD_CC_icon.svg.png" alt="ps" width="40" height="40"/>
   </a> 
 </p>

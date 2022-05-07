@@ -2,7 +2,7 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Coder Mert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
   <p align="center">
-<img src="https://user-images.githubusercontent.com/53333294/155375971-52414bdc-8775-4d33-b7b6-4ca0e530388c.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <h3 >Connect with me:</h3>
 
 

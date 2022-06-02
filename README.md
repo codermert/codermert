@@ -2,7 +2,7 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Coder Mert</h1>
 
   <p align="center">
-<img src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://j.gifs.com/vO0xEx.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <h3 >Connect with me:</h3>
 
 

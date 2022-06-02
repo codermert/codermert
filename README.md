@@ -22,7 +22,7 @@
 </a>&ensp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 </a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/> 
-</a>&ensp;<a href="https://manjaro.org/" target="_blank"> <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="60" height="40"/> 
+</a>&ensp;<a href="https://manjaro.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Manjaro-logo.png" alt="manjaro" width="60" height="40"/> 
 </a>&ensp;<a href="https://archcraft.io/" target="_blank"> <img src="https://archcraft.io/images/logo.svg" alt="arch" width="60" height="40"/> 
  </a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a>&ensp;<a href="https://code.visualstudio.com" target="_blank"> <img src="https://logojinni.com/image/logos/visual%20studio%20code-687.svg" alt="vscode" width="40" height="40"/> 

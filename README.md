@@ -1,6 +1,6 @@
 <samp>
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&lines=Hello+I'm+Coder Mert"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&lines=Hello+I'm+Coder+Mert"></a>
 </p>
 
   <p align="center">

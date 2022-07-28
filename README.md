@@ -22,7 +22,7 @@
 <h3 >Languages and Tools:</h3>
 <p ><a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>   &ensp;
 </a>&ensp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+ <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node" width="40" height="40"/>
 </a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/> 
 </a>&ensp;<a href="https://manjaro.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Manjaro-logo.png" alt="manjaro" width="60" height="40"/> 
 </a>&ensp;<a href="https://archcraft.io/" target="_blank"> <img src="https://archcraft.io/images/logo.svg" alt="arch" width="60" height="40"/> 

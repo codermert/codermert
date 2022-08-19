@@ -10,6 +10,7 @@
 
 
 <p >
+<a target="_blank" href="https://open.spotify.com/user/76ck031tz84tb9inafu2a49u1"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-cD1?style=for-the-badge&logo=Spotify&logoColor=green&color=black"></a>
 <a target="_blank" href="mailto:codermert@bk.ru"><img alt="Email" src="https://img.shields.io/badge/Mail-ru-cD1?style=for-the-badge&logo=Mail.ru&logoColor=01060a&color=4495d4"></a>
 <a target="_blank" href="https://twitter.com/codermert"><img alt="Twitter Developers" src="https://img.shields.io/badge/twitter-cD1?style=for-the-badge&logo=twitter&logoColor=01060a&color=4495d4"></a>
 <a target="_blank" href="https://ask.fm/codermertx"><img alt="askfm" src="https://img.shields.io/badge/ask.fm-2B2A29.svg?style=for-the-badge&logo=askfm&logoColor=ee1144"></a>

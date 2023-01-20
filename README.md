@@ -43,8 +43,8 @@
 
 <h2 >My GitHub Stats :bar_chart:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=codermert&show_icons=true&theme=tokyonight" height="130">&ensp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermert&layout=compact&theme=tokyonight" height="130">
+  <p align="center">
+<img src="https://j.gifs.com/vO0xEx.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
   
 </p>
  

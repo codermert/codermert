@@ -20,7 +20,7 @@
 
 </p>
 <h3 >Languages and Tools:</h3>
-<p ><a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>   &ensp;
+<p ><a href="https://flutter.dev/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="flutter" width="35" height="35"/>   &ensp;
 </a>&ensp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node" width="40" height="40"/>
 </a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/> 

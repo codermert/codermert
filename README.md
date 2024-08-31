@@ -1,50 +1,44 @@
-<samp>
- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&lines=Hello+I'm+Coder+Mert"></a>
-</p>
+# Merhaba, ben Mert 👋
 
-  <p align="center">
-<h3 >Connect with me:</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57a4df&width=435&lines=Flutter+Developer;Node.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
+<details>
+<summary>🤝 Benimle İletişime Geçin</summary>
+<br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codermert34/)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codermert@bk.ru)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/codermert)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15413885/coder-mert)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codermert)
 
-<p >
-<a target="_blank" href="https://open.spotify.com/user/76ck031tz84tb9inafu2a49u1"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-cD1?style=for-the-badge&logo=Spotify&logoColor=green&color=black"></a>
-<a target="_blank" href="mailto:codermert@bk.ru"><img alt="Email" src="https://img.shields.io/badge/Mail-ru-cD1?style=for-the-badge&logo=Mail.ru&logoColor=01060a&color=4495d4"></a>
-<a target="_blank" href="https://twitter.com/codermert"><img alt="Twitter Developers" src="https://img.shields.io/badge/twitter-cD1?style=for-the-badge&logo=x&logoColor=01060a&color=4495d4"></a>
-<a target="_blank" href="https://ask.fm/codermertx"><img alt="askfm" src="https://img.shields.io/badge/ask.fm-2B2A29.svg?style=for-the-badge&logo=askfm&logoColor=ee1144"></a>
-<a target="" href="https://stackoverflow.com/users/15413885/coder-mert">        <img alt="iletisim | Stack"  src="https://img.shields.io/badge/stackoverflow-2B2A29.svg?style=for-the-badge&logo=stackoverflow&logoColor=orange"></a>
-<a target="_blank" href="https://t.me/codermert">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=18eaed"></a>
-<a target="_blank" href="https://vk.com/codermert">               <img alt="iletisim | VK" src="https://img.shields.io/badge/vk-2B2A29.svg?style=for-the-badge&logo=vk&logoColor=18eaed"></a>
- 
+</details>
 
-</p>
-<h3 >Languages and Tools:</h3>
-<p ><a href="https://flutter.dev/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="flutter" width="35" height="35"/>   &ensp;
-</a>&ensp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node" width="40" height="40"/>
-</a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/> 
-</a>&ensp;<a href="https://manjaro.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Manjaro-logo.png" alt="manjaro" width="60" height="40"/> 
-</a>&ensp;<a href="https://archcraft.io/" target="_blank"> <img src="https://archcraft.io/images/logo.svg" alt="arch" width="60" height="40"/> 
- </a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a>&ensp;<a href="https://code.visualstudio.com" target="_blank"> <img src="https://logojinni.com/image/logos/visual%20studio%20code-687.svg" alt="vscode" width="40" height="40"/> 
-</a>&ensp;<a href="https://www.mysql.com" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" alt="mysql" width="40" height="40"/>
-</a>&ensp;<a href="https://docs.google.com/spreadsheets/u/0/" target="_blank"> 
-</a>&ensp;<a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.postimg.cc/wMgW67VC/android-studio.png" alt="ps" width="40" height="40"/>
-</a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/800px-Google_Apps_Script.svg.png" alt="mysql" width="40" height="40"/>
-</a>&ensp;<a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="ps" width="40" height="40"/>
-</a>&ensp;<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="40" height="40"/> 
-</a>&ensp;<a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/200px-Adobe_XD_CC_icon.svg.png" alt="ps" width="40" height="40"/>
-  </a> 
-</p>
+<details>
+<summary>🛠️ Diller ve Araçlar</summary>
+<br>
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</details>
 
-<h2 >My GitHub Stats :bar_chart:</h2>
-<p>
+## 💻 İşletim Sistemi
+
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+
+## 📦 Kütüphaneler 
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/turkiye_eczaneler)
+[![pub.dev](https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/nobetci_eczaneler) 
+
 <img src="https://j.gifs.com/vO0xEx.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Computador">
-  
-</p>
- 
-
 

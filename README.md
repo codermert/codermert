@@ -42,6 +42,8 @@
 ## 📦 Kütüphaneler 
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/turkiye_eczaneler)
 [![pub.dev](https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/nobetci_eczaneler) 
+[![pub.dev](https://img.shields.io/badge/KDE_STORE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)](https://store.kde.org/p/2194992) 
+
 
 <img src="https://j.gifs.com/vO0xEx.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Computador">
 
